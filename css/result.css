@@ -1,0 +1,35 @@
+body {
+font-family: Microsoft JhengHei;
+background-color:#EAE7DC;
+}
+
+#banner {
+background-image: url(../images/sky.jpg);
+background-position: center center;
+background-size: cover;
+height: 300px;
+margin-top: 3.5rem;
+}
+
+.banner-text {
+    color:white;
+    font-size:50px; 
+    position: relative;
+    top: 175%;
+}
+
+.title-text {
+color: #F0122D;
+font-weight: bold;
+}
+
+
+.navbar-custom {
+    background-color:#D8C3A5
+}
+
+.navbar-text {
+    color:#353535;
+    font-size: 18px;
+    font-weight: bold;
+}

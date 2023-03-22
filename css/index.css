@@ -1,0 +1,36 @@
+body {
+    font-family: Microsoft JhengHei;
+    background-color:#EAE7DC;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+
+.content-area {
+    margin-top: 6rem;
+    margin-bottom: 2rem;
+    height: 100vh - 8rem;
+    }
+
+.navbar-custom {
+    background-color:#D8C3A5
+}
+
+.navbar-text {
+    color:#353535;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.title-text {
+color: #292b2c;
+font-weight: bold;
+font-size: 45px;
+}
+
+.secondary-text {
+    color:#292b2c;
+    font-size: 20px;
+    font-weight:bold;
+}
