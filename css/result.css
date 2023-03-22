@@ -1,6 +1,7 @@
 body {
 font-family: Microsoft JhengHei;
 background-color:#EAE7DC;
+font-size: 18px;
 }
 
 #banner {
@@ -19,6 +20,7 @@ margin-top: 3.5rem;
 }
 
 .title-text {
+font-size: 33px;
 color: #F0122D;
 font-weight: bold;
 }
@@ -32,4 +34,12 @@ font-weight: bold;
     color:#353535;
     font-size: 18px;
     font-weight: bold;
+}
+
+a:link, a:visited {
+    color: #F0122D;
+}
+
+a:hover {
+    color: #D0312D;
 }

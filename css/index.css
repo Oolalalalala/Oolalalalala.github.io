@@ -8,9 +8,9 @@ body {
 }
 
 .content-area {
-    margin-top: 6rem;
-    margin-bottom: 2rem;
-    height: 100vh - 8rem;
+    margin-top: 7rem;
+    margin-bottom: 6rem;
+    height: 100vh - 1rem;
     }
 
 .navbar-custom {
