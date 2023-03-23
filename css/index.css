@@ -9,7 +9,7 @@ body {
 
 .content-area {
     margin-top: 7rem;
-    margin-bottom: 6rem;
+    margin-bottom: 2rem;
     height: 100vh - 1rem;
     }
 
@@ -33,4 +33,9 @@ font-size: 45px;
     color:#292b2c;
     font-size: 20px;
     font-weight:bold;
+}
+
+.name-text {
+    color:#BA55D3;
+    font-size: 60px;
 }
